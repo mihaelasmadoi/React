@@ -1,0 +1,47 @@
+{
+	"personalInfo": {
+		"name":			"Mihaela Smadoi",
+		"function":		"Student 2nd year",
+		"email":		"smadoi.mihaela@gmail.com",
+		"phone":		"0787594855",
+		"birthday":		"28.11.1999",
+		"location": {
+			"city": 	"Comuna Poiana Mare",
+			"region":	"Dolj",
+			"country":	"Romania"
+		}
+		
+	},
+	
+	"education": {
+		"highschool":	"Graduated from Liceul Teoretic Independenta Calafat [2015-2019]",
+		"university":	"Currently studying at UPT AC IT (Info); year 2/3. [2019-2022]"
+	},
+	
+	"skills": [
+		"C",
+		"C++",
+		"MySQL",
+		"Java",
+		"HTML",
+		"CSS Design",
+		"Snapseed",
+		"Canva"
+	],
+	
+	"personalskills": [
+		"Management skills",
+		"Leader skills",
+		"Team work responsabilities",
+		"Open mind",
+		"Creative"
+	],
+	
+	"interests": [
+		"Reading books",
+		"Listening music",
+		"Adventures in nature"
+	]
+	
+
+}

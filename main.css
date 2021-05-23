@@ -1,0 +1,90 @@
+@font-face {
+		font-family: OpenSans;
+		src: url('fonts/OpenSans-SemiBold.ttf');
+}
+
+@font-face {
+		font-family: RobotoSlab;
+		src: url('fonts/RobotoSlab-VariableFont_wght.ttf');
+}
+
+
+body {
+	background: #DEDEDE;
+}
+
+
+.mainTable {
+	width: 730px;
+	height: 1090px;
+	background-color: #FFF;
+	background-image: url('images/background.png') ;
+	background-position: top center;
+	background-repeat: no-repeat;
+	background-size: 511px 282px;
+	border-collapse: collapse;
+	border: 0px;
+	margin-left: -1px;
+	margin-top: -10x;
+}
+td {
+	padding: 5px;
+	border-collapse: collapse;
+}
+
+.header {
+	width: 365px;
+	padding: 4px;
+	padding-top: 20px;
+	bottom: 90%;
+	background: rgba(0, 0, 0, 0);
+	font-family: Poor Richard;
+	font-size: 18px;
+	font-weight: bold;
+	border-bottom: 0px solid #000;
+}
+
+.content_td {
+	vertical-align: top;
+	padding: 8px;
+	border-bottom: 0px;
+	width: auto;
+}
+
+.content_div {
+	padding-top: 3px;
+	padding-left: 4px;
+	color: #000;
+	font-family: RobotoSlab;
+	font-size: 13px;
+	border-bottom: 0px;
+	width: 365px;
+}
+
+.subtitle {
+	padding-left: 8px;
+	color: rgb(161, 85, 27);
+	font-family: RobotoSlab;
+	font-size: 13px;
+	font-weight: bold;
+	border-bottom: 0px;
+}
+
+.name {
+	margin-left: 60px;
+	color: #000;
+	font-family: Poor Richard;
+	font-weight: bold;
+	font-size: 24px;
+}
+
+.indent {
+	padding-left: 8px;
+}
+
+.content_p {
+	padding-left: 8px;
+}
+.contentList {
+  list-style-image: url('images/flower.png');
+}
